@@ -28,7 +28,6 @@ Binary trees are fundamental data structures in computer science. They are used 
 - **HTML5**: For structuring the web page
 - **CSS3**: For styling the visual elements
 - **JavaScript**: For implementing the tree logic and interactivity
-- **D3.js**: For creating dynamic, interactive data visualizations
 
 ## Getting Started
 
